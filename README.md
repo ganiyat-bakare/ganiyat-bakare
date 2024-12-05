@@ -1,6 +1,5 @@
-## Hi there 👋
-
-**I Am Ganiyat**
+## Hi there 👋 
+## I Am Ganiyat!
 
 
 - 🔭 I’m currently working on a Chamber of Commerce website
